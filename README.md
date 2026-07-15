@@ -23,7 +23,6 @@ An end-to-end machine learning pipeline that detects fraudulent credit card tran
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- Joblib
 
 ## 🔍 Pipeline / Methodology
 1. **Data Loading & Class Balancing** — undersampled majority class to address severe imbalance
